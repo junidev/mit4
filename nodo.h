@@ -1,5 +1,6 @@
 #ifndef NODO_H
 #define NODO_H
+
 #include<iostream>
 using namespace std;
 typedef unsigned short int int_sh;
