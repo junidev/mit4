@@ -1,6 +1,7 @@
 #include "nodo.h"
 #include "nodo.cpp"
 
+
 int main () {
     //stack
 	Stack<int> obj;
