@@ -1,5 +1,6 @@
 #include "nodo.h"
 
+
 /*. Nodoo*/
 
 template<class T>
